@@ -1,6 +1,0 @@
-# Formula of BMI=mass/height^2 (mass:kg, height:m)
-weight=float(input("Your weight(kg): "))
-height=float(input("Your height(m): "))
-BMI=weight/(height**2)
-BMI_result=round(BMI,1)
-print("You BMI is: ",BMI_result)
