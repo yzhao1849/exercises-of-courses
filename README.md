@@ -1,6 +1,7 @@
-# exercises-of-courses (Gradually uploading more..)
+# exercises-of-courses 
 
 The programming exercises of the courses I have taken (from 2016 til now):
+(Currently only some of the courses, gradually uploading more...)
 - 2017 summer semester
     - Bioinformatics II (Python) 
     - Data Mining and Machine Learning Methods in Bioinformatics (R)
