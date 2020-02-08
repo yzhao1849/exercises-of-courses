@@ -1,4 +1,4 @@
-# Projects_in_Courses
+# Projects in Courses
 
 The programming exercises of the courses I have taken (from 2016 til now):
 (Currently only some of the courses, gradually uploading more...)
